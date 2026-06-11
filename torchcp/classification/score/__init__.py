@@ -5,11 +5,11 @@
 # LICENSE file in the root directory of this source tree.
 #
 
-from .aps import APS
+from .aps import APS, EnergyAPS
 from .knn import KNN
 from .margin import Margin
-from .raps import RAPS
-from .saps import SAPS
-from .lac import LAC
+from .raps import RAPS, EnergyRAPS
+from .saps import SAPS, EnergySAPS
+from .lac import LAC, EnergyLAC
 from .topk import TOPK
 from .entmax import EntmaxScore
