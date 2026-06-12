@@ -1,3 +1,10 @@
+"Softmax is not Enough (for Adaptive Conformal Classification)" Authors:
+Navid Akhavan Attar <n.akhavanattar@unimelb.edu.au>
+Hesam Asadollahzadeh <h.asadollahzadeh@unimelb.edu.au>
+Ling Luo <ling.luo@unimelb.edu.au>
+Uwe Aickelin <uwe.aickelin@unimelb.edu.au>
+
+"TorchCP: A Python Library for Conformal Prediction" Authors:
 Hongxin Wei <weihx@sustech.edu.cn>
 Jianguo Huang <jianguo.huang@ntu.edu.sg>
 Xuanning Zhou <shinning_zhou@163.com>
